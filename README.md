@@ -1,5 +1,5 @@
 # politica-de-privacidad
-
+# Condiciones del servicio de miku hatsune 
 
 ### 
 ¡Te damos la bienvenida a miku hatsune Estas Condiciones del Servicio ("Condiciones"), que incluyen y por la presente incorporan la Política de Privacidad de miku hatsune ("Política de Privacidad"), constituyen un acuerdo entre Discord("Política de Privacidad"), constituyen un acuerdo entre Discord y miku hatsune. Al utilizar o acceder a la aplicación de miku hatsune a los que nos referiremos colectivamente como el "Servicio", usted acepta (i) que tiene una edad de 13 años o superior y posee la edad mínima de consentimiento digital de su país, (ii) si posee al menos la mayoría de edad en su jurisdicción, que ha leído, comprendido y aceptado el cumplimiento de las Condiciones, y (iii) si tiene usted entre 13 años (o la edad mínima, según corresponda) y la mayoría de edad en su jurisdicción, que su tutor legal ha revisado y aceptado estas Condiciones.
